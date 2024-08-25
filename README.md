@@ -3,7 +3,7 @@
 Was uploaded on my previous github, migrating projects over here!
 
 ## Introduction
-Welcome to my 2048 Game Customizer, created by @calskidal! This tool allows you to customize the 2048 game to your liking by adjusting the variables in the console.
+Welcome to my 2048 Game Customizer! This tool allows you to customize the 2048 game to your liking by adjusting the variables in the console.
 
 ## Getting Started
 1. Visit [2048 Game](//:play2048.co) or any 2048 integrated game.
